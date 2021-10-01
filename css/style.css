@@ -122,6 +122,8 @@ button:active{
     .btn{
         font-size:4vh;
     }
-    
+    button:active{
+        background-color: rgb(145, 211, 228);
+    }
 }
 
